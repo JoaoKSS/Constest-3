@@ -14,7 +14,7 @@ Os arquivos de cada contest estão organizados em pastas dentro do repositório 
 - 🔹 **Contest-2**: `contest-2-A-joao-kennedy-souza-soares.cpp`
 - 🔹 **Contest-2**: `contest-2-B-joao-kennedy-souza-soares.kts`
 - 🔹 **...**
-- 🔹 **Contest-2**: `contest-2-G-joao-kennedy-souza-soares.cpp`
+- 🔹 **Contest-2**: `contest-2-L-joao-kennedy-souza-soares.cpp`
 
 ## 🚀 Como clonar e compilar
 
